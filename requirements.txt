@@ -1,0 +1,4 @@
+matplotlib==3.10.8
+numpy==2.3.5
+PySimpleGUI-4-foss==4.60.4.1
+

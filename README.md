@@ -35,5 +35,8 @@ This script relies on the following Python libraries:
 - `PySimpleGUI`: Offers a simple and intuitive GUI interface.
 - `matplotlib`: Used for plotting data and generating visualizations.
 
+To install the required dependencies, run:
 
-Before running the `OscilloPlot.py` script, ensure these dependencies are installed in your Python environment. You can install any missing libraries using pip by executing the respective `pip install`.
+```
+pip install -r requirements.txt
+```
